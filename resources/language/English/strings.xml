@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="50000">Puppet Fever Companion App</string>
+
+    <!-- Dialog Messages -->
+    <string id="50010">WINE Required</string>
+    <string id="50011">This addon requires that WINE be installed on this system</string>
+    <string id="50012">App Download</string>
+    <string id="50013">The Puppet Fever Companion App is being downloaded. The app will launch when it is completed.</string>
+
+</strings>
