@@ -7,5 +7,7 @@ A launcher for starting the Puppet Fever Companion App from Kodi on Linux using 
 Requires that wine be installed on the system.
 
 https://www.puppetfever.com
+
 https://github.com/simons-public/script.puppet-fever.launcher
+
 https://kodi.tv/
